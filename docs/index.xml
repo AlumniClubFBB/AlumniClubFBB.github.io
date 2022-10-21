@@ -6,16 +6,25 @@
     <description>Recent content on FBB Alumni Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://AlumniClubFBB.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://AlumniClubFBB.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://AlumniClubFBB.github.io/prize/new_prize/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <title>Члены клуба выпускников</title>
+      <link>https://AlumniClubFBB.github.io/about/members/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://AlumniClubFBB.github.io/prize/new_prize/</guid>
-      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.
-Subheading This is some content.
-Another Subheading This is more content.</description>
+      <guid>https://AlumniClubFBB.github.io/about/members/</guid>
+      <description>Имя Год выпуска Род занятий Артур Залевский 2015 м. н. с ИБХ РАН Иван Степнов 2011 Инженер-исследователь в Intento Тигран Бабаян 2009 Data Delivery and QA Manager в Causaly Василий Попков 2014 с. н. с. НИИ ФХБ, председатель Совета Молодых Ученых НИИ ФХБ Юля Нарайкина 2014 Руководитель группы планирования продуктовых программ в компании BIOCAD Сергей Лукин 2011 Основатель маркетингового агентства Newmediastar Павел Синицын 2014 Сотрудник Института Макса Планка Дамир Досымбеков 2008 Solutions Analysis Manager в Clarivate Analytics Алексей Елисеев 2018 Лаборант-исследователь в РНИМУ Руслан Айдарханов 2013 Аспирант EPFL Анастасия Маслова 2014 Постдок в The Hong Kong University of Science and Technology Софья Медведева 2014 Аспирант Сколтеха и Института Пастера Борис Бурков 2009 Инженер-математик Виктор Кузнецов 2014 м.</description>
+    </item>
+    
+    <item>
+      <title>IX Премия выпускников ФББ</title>
+      <link>https://AlumniClubFBB.github.io/prize/9/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://AlumniClubFBB.github.io/prize/9/</guid>
+      <description>Студент 3, 4, 5 или 6 курса Факультета Биоинженерии и Биоинформатики МГУ? Есть достижения в науке, биотехнологиях или научной коммуникации? Тогда мы очень ждем твою заявку!
+Для участия нужно:
+написать эссе (3000-4000 знаков), пройти по ссылке и заполнить форму заявки до 23:59 МСК, 30 октября 2022, Обратите внимание, что к достижениям мы не относим исключительно научные статьи и будем рады увидеть другие результаты: выступления на конференциях, заявки на патенты, участие в проектах по популяризации науки и т.</description>
     </item>
     
   </channel>
