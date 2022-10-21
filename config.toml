@@ -7,7 +7,7 @@ publishDir   = "docs"
 
 [params]
   # Subtitle for home
-  homeSubtitle = "Клуб выпускников ФББ МГУ"
+  homeSubtitle = "Клуб выпускников ФББ"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -44,8 +44,13 @@ publishDir   = "docs"
   # And you can even create generic menu
   [[menu.main]]
     identifier = "prize"
-    name       = "Премия клуба"
+    name       = "Премия"
     url        = "/prize"
+
+  [[menu.main]]
+    identifier = "help"
+    name       = "Помощь"
+    url        = "/help"
 
   [[menu.main]]
     identifier = "about"
