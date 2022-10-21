@@ -26,7 +26,7 @@ publishDir   = "docs"
     series   = "series"
 
 [languages]
-  [languages.en]
+  [languages.ru]
     title = "FBB Alumni Club"
     subtitle = "Клуб выпускников ФББ МГУ"
     keywords = ""
@@ -46,3 +46,8 @@ publishDir   = "docs"
     identifier = "prize"
     name       = "Премия клуба"
     url        = "/prize"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "О клубе"
+    url        = "/about"
