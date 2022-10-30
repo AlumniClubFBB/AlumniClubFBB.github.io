@@ -122,7 +122,13 @@
             <h1>FBB Alumni Club</h1>
 
             
-    <p><a href="/prize/9">я студент</a> • <a href="/about/how">я выпускник</a></p>
+    <p id="header"><span onclick="myFunction()"><a href="#">я студент</a></span> • <a href="/about/how">я выпускник</a></p>
+
+    <script>
+    function myFunction() {
+      document.getElementById("header").innerHTML = "<a href='prize/9'>премия выпускников</a> • <a href='help'>материальная помощь</a>";
+    }
+    </script>
         </div>
     </main>
 
