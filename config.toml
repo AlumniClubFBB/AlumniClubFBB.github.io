@@ -34,8 +34,8 @@ publishDir   = "docs"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "fbb alumni club"
       logoHomeLink = "/"
+      path = "/fbb-alumni_logo_wh.svg"
     # or
     #
     # path = "/img/your-example-logo.svg"
