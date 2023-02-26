@@ -1,0 +1,10 @@
+{{- with .Site.Params.homeSubtitle }}
+    <p id="header">&nbsp;&nbsp;<span onclick="myFunction()"><a href="#">я студент(-ка)</a></span> • <a href="/about/how">я выпускник(-ца)</a>&nbsp;&nbsp;</p>
+
+    <script>
+    function myFunction() {
+      document.getElementById("header").innerHTML = "&nbsp;&nbsp;<a href='prize/9'>премия выпускников</a> • <a href='help'>материальная помощь</a>&nbsp;&nbsp;";
+    }
+    </script>
+
+{{- end }}

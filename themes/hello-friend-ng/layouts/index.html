@@ -1,0 +1,33 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+
+            <table style="border-spacing: 20px 0;" align="center">
+                <tr>
+                    <td>
+                        <img src="/fbb-alumni_logo.svg" height="150">
+                    </td>
+                    <td>
+                        <h1 style="line-height: 1.3em; font-size: 2.5rem;" align="left">FBB<br>Alumni<br>Club</h1>
+                    </td>
+                </tr>
+            </table>
+
+
+            {{ partial "subtitle.html" . }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}
