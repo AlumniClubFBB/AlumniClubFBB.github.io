@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/s.isaev/Documents/AlumniClubFBB.github.io",
+	"sourceRoot": "/Users/sisaev/Documents/AlumniClubFBB.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
