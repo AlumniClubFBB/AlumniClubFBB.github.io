@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://AlumniClubFBB.github.io/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -15,6 +15,12 @@
                 href="https://AlumniClubFBB.github.io/"
                 />
   </url><url>
+    <loc>https://AlumniClubFBB.github.io/prize/last/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://AlumniClubFBB.github.io/prize/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://AlumniClubFBB.github.io/about/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -22,9 +28,6 @@
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://AlumniClubFBB.github.io/prize/9/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://AlumniClubFBB.github.io/prize/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://AlumniClubFBB.github.io/about/harassment/</loc>
