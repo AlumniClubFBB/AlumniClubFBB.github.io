@@ -16,9 +16,9 @@ publishDir   = "docs"
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
-  images = [""]
+  description = "Официальный сайт Клуба выпускников ФББ МГУ. Тут можно найти информацию о предстоящих и прошедших премиях, список членов клуба и прочее, касающееся нашей активности"
+  keywords = "alumni club, fbb msu"
+  images = ["/fbb-alumni_logo.svg"]
 
 [taxonomies]
     category = "blog"
