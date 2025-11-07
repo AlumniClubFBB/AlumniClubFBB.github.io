@@ -50,3 +50,4 @@ date: "2025-10-01"
 Ольга Макарикова|2023|Аспирантка **МФТИ**, специалист **НИИ системной биологии и медицины Роспотребнадзора**
 Евгений Егоров|2025|PhD student в **École normale supérieure**
 Георгий Андреев|2023|Research Engineer at **GenBio AI**
+Анастасия Каштанова|2025|PhD student в Centre for Genomic Regulation
