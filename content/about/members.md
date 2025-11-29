@@ -1,6 +1,6 @@
 ---
 title: "Члены клуба выпускников"
-date: "2025-10-01"
+date: "2025-11-29"
 ---
 Имя|Год выпуска|Род занятий
 |-|-|-|
@@ -51,3 +51,4 @@ date: "2025-10-01"
 Евгений Егоров|2025|PhD student в **École normale supérieure**
 Георгий Андреев|2023|Research Engineer at **GenBio AI**
 Анастасия Каштанова|2025|PhD student в Centre for Genomic Regulation
+Марина Фроленкова|2025|Research assistant в University of Oslo
