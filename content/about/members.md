@@ -29,7 +29,7 @@ date: "2025-11-29"
 Анастасия Балакирева|2015|К.б.н., н.с. в **ИБХ РАН** и **ООО «Планта»**
 Лада Сычёва|2007|Scientist в **Rancho Biosciences**
 Катерина Нуждина|2018|Sr. bioinformatics scientist в **BostonGene**
-Алексей Ефремов|2020|Аспирант **ФББ**, bioinformatics specialist и project manager в **BostonGene**
+Алексей Ефремов|2020|Lead bioinformatician @ **BostonGene**
 Александра Бойко|2020|Project manager at **BostonGene**
 Ирина Хвень|2019|PhD student в **EPFL**
 Анастасия Приходько|2013|К.б.н., н.с. НИИ ФХБ им.А.Н. Белозерского
@@ -51,4 +51,4 @@ date: "2025-11-29"
 Евгений Егоров|2025|PhD student в **École normale supérieure**
 Георгий Андреев|2023|Research Engineer at **GenBio AI**
 Анастасия Каштанова|2025|PhD student в Centre for Genomic Regulation
-Марина Фроленкова|2025|Research assistant в University of Oslo
+Марина Фроленкова|2025|Research assistant в **University of Oslo**
