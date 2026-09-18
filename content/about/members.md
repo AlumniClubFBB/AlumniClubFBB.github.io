@@ -52,3 +52,4 @@ date: "2025-11-29"
 Георгий Андреев|2023|Research Engineer at **GenBio AI**
 Анастасия Каштанова|2025|PhD student в **Centre for Genomic Regulation**
 Марина Фроленкова|2025|Research assistant в **University of Oslo**
+Илья Вольхин|2025|Аспирант **Биологического Факультета МГУ**
